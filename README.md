@@ -18,10 +18,10 @@ Optional:
 * IR obstacle sensor
 
 ## Schematic
-!(https://github.com/judhi/lockbot/blob/master/LockBot-schematic.png)
+![schematic](https://github.com/judhi/lockbot/blob/master/LockBot-schematic.png)
 
 ## Fritzing diagram
-!(https://github.com/judhi/lockbot/blob/master/LockBot-fritzing.png)
+![fritzing](https://github.com/judhi/lockbot/blob/master/LockBot-fritzing.png)
 
 ## Sketch
 Download sketch [here](https://github.com/judhi/lockbot/blob/master/LockBot_Arduino.ino) 
